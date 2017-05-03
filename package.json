@@ -1,0 +1,16 @@
+{
+  "name": "feeder",
+  "version": "0.0.1",
+  "description": "Cat Feeder",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Astolfi <eastolfi91@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "file-system-store": "^1.1.2",
+    "moment": "^2.18.1",
+    "mongo-portable": "^1.3.2"
+  }
+}
